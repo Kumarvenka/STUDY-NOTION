@@ -12,7 +12,6 @@ StudyNotion is a responsive web application built with React.js, designed to pro
 - *Frontend:* React.js, React Router, Tailwind CSS
 - *State Management:* React Hooks
 - *UI Components:* Custom reusable components
-- *Backend:* (If applicable, mention backend technologies/APIs used)
 
 ## Getting Started
 To run this project locally:
